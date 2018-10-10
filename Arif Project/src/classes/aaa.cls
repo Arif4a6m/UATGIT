@@ -1,13 +1,14 @@
 public class aaa {
 
     public aaa(ApexPages.StandardSetController controller) {
+    	System.debug('Thisssssssssss is  mmnormal'); 
 
     }
 
 
     public aaa(Account9 controller) {
     
-      System.debug('Arif'+controller.a.id);          
+      System.debug('Thisssssssssss is  mmnormal');          
 
     }
 
