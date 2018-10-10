@@ -7,7 +7,7 @@ public class aaa {
 
     public aaa(Account9 controller) {
     
-      System.debug('Thisssssssssss is  mmnormal'+controller.a.id);          
+      System.debug('Arif'+controller.a.id);          
 
     }
 
